@@ -21,7 +21,7 @@ if (isset($_FILES['image'])) {
 }
 
 // Google Maps APIを使用して位置情報を取得
-$apiKey = 'AIzaSyDY1AbFC0KarZrysvfWBknwJcFDx5dTXnI'; // 実際のAPIキーをここに設定
+$apiKey = ''; // 実際のAPIキーをここに設定
 $location = getLatLng($country, $apiKey);
 
 if ($location) {
