@@ -181,7 +181,7 @@ if ($status==false) {
 
 
 <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDY1AbFC0KarZrysvfWBknwJcFDx5dTXnI&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
 </script>
 
 
